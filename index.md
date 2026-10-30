@@ -144,7 +144,7 @@ Numeric thresholds suggested by AI (e.g., 5 minutes, 90%, ±20%) were treated as
 
   > okaysend me the sections that need to be overwritten
 - **Output (summary):** List of changes (iStar, UML and SIG moved to Deliverable 2; context diagram, contribution table, 15+ domain glossary terms and SusAD added); replacement sections; a context diagram image.
-- **Kept / changed / rejected:** Report restructured into the new sections 1–7. Context diagram to be redrawn in our modelling tool.
+- **Kept / changed / rejected:** Report restructured into the new sections 1–7. Context diagram to be redrawn.
 
 ### Entry 9 — AI use and verification
 - **Date:** 26 Oct 2026
@@ -187,7 +187,7 @@ Numeric thresholds suggested by AI (e.g., 5 minutes, 90%, ±20%) were treated as
 
   > the todos in the table 22 what do you need me to do
 - **Output (summary):** A first circular SusAD (which wrongly mixed threats into the diagram and had one inward arrow); a pentagon redraw following the lecture method; shorter labels; Social labels checked against the lecture's themes; an energy-use effect; synthesis tables; SR9–SR11.
-- **Kept / changed / rejected:** The first version was rejected because it did not follow the lecture method or our teacher's feedback, which we noticed ourselves (Table 16). The final version is kept and redrawn in our modelling tool.
+- **Kept / changed / rejected:** The first version was rejected because it did not follow the lecture method or our teacher's feedback, which we noticed ourselves (Table 16). The final version is kept and redrawn.
 
 ### Entry 12 — Consistency review
 - **Date:** 26 Oct 2026

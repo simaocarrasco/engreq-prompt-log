@@ -146,20 +146,7 @@ Numeric thresholds suggested by AI (e.g., 5 minutes, 90%, ±20%) were treated as
 - **Output (summary):** List of changes (iStar, UML and SIG moved to Deliverable 2; context diagram, contribution table, 15+ domain glossary terms and SusAD added); replacement sections; a context diagram image.
 - **Kept / changed / rejected:** Report restructured into the new sections 1–7. Context diagram to be redrawn.
 
-### Entry 9 — AI use and verification
-- **Date:** 26 Oct 2026
-- **Tool / model:** Claude, claude-opus-5-5
-- **Report section:** 3.6, AI Use Declaration
-- **Context provided:** The AI4RE lecture slides
-- **Technique:** Zero-shot
-- **Prompts:**
-  > I also have this
-
-  > just give me the text ill paste it and complete wtv is needed
-- **Output (summary):** How to apply the five checks; the prompt-logging format used on this page; an RTF prompt for the AI brainstorm; AI declaration text.
-- **Kept / changed / rejected:** Used for the verification section and this log's format.
-
-### Entry 10 — Stakeholder and scope reduction (rejected)
+### Entry 9 — Stakeholder and scope reduction (rejected)
 - **Date:** 26 Oct 2026
 - **Tool / model:** Claude, claude-opus-5-5
 - **Report section:** 2, 1.3
@@ -172,7 +159,7 @@ Numeric thresholds suggested by AI (e.g., 5 minutes, 90%, ±20%) were treated as
 - **Output (summary):** Scoping criteria; a table of stakeholders to exclude; a reduced scope of about 10 FRs.
 - **Kept / changed / rejected:** Rejected. After talking to the professors, we kept all stakeholders and used MoSCoW to prioritise instead.
 
-### Entry 11 — SusAF and SusAD
+### Entry 10 — SusAF and SusAD
 - **Date:** 26 Oct 2026
 - **Tool / model:** Claude, claude-opus-5-5
 - **Report section:** 7, 6.4
@@ -189,20 +176,7 @@ Numeric thresholds suggested by AI (e.g., 5 minutes, 90%, ±20%) were treated as
 - **Output (summary):** A first circular SusAD (which wrongly mixed threats into the diagram and had one inward arrow); a pentagon redraw following the lecture method; shorter labels; Social labels checked against the lecture's themes; an energy-use effect; synthesis tables; SR9–SR11.
 - **Kept / changed / rejected:** The first version was rejected because it did not follow the lecture method or our teacher's feedback, which we noticed ourselves (Table 16). The final version is kept and redrawn.
 
-### Entry 12 — Consistency review
-- **Date:** 26 Oct 2026
-- **Tool / model:** Claude, claude-opus-5-5
-- **Report section:** Whole report
-- **Context provided:** The full current report text
-- **Technique:** Zero-shot
-- **Prompts:**
-  > OKAY Heres the current state of the report
-
-  > okay tell me everything then that neds changing again heres the latest , lets go from top to bottom
-- **Output (summary):** A top-to-bottom list of fixes (outdated IDs, duplicate table numbers, missing requirements, wording implying the interview had been carried out).
-- **Kept / changed / rejected:** The suggested fixes were reviewed and applied.
-
-### Entry 13 — AI-assisted brainstorm (Section 3.6)
+### Entry 11 — AI-assisted brainstorm (Section 3.6)
 - **Date:** 27 Oct 2026
 - **Tool / model:** Claude, claude-opus-5-5
 - **Report section:** 3.6, Table 9

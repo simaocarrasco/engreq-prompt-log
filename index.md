@@ -1,6 +1,9 @@
 # AI Prompt Log — Vineyard Experience & Visitor Flow Management System
 
-Requirements Engineering 2026/2027 — FCT NOVA — Deliverable 1
+Requirements Engineering 2026/2027 — FCT NOVA 
+
+## Deliverable 1 
+
 Group 5: João Rivera 73418, Simão Carrasco 76907, Tomás Simões 73894
 
 ---

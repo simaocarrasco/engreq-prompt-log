@@ -200,7 +200,7 @@ Numeric thresholds suggested by AI (e.g., 5 minutes, 90%, ±20%) were treated as
 - **Kept / changed / rejected:** The suggested fixes were reviewed and applied.
 
 ### Entry 13 — AI-assisted brainstorm (Section 3.6)
-- **Date:** TODO
+- **Date:** 27 Oct 2026
 - **Tool / model:** Claude, claude-opus-5-5
 - **Report section:** 3.6, Table 9
 - **Context provided:** None beyond the prompt (run in a new chat)
